@@ -987,7 +987,7 @@
 
 {"name": "东方卫视","urls": ["http://39.135.140.226:6410/PLTV/88888888/224/3221225489/2/index.m3u8?fmt=ts2hls","http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8","http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8"]},
 
-{"name": "湖南卫视","urls": ["http://220.134.196.147:8701/http/116.50.42.18:8081/hls/67/809/ch27.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a","http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8","http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8"]},
+{"name": "湖南卫视","urls": ["http://39.135.140.226:6410/PLTV/88888888/224/3221225490/2/index.m3u8?fmt=ts2hls","http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8","http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8"]},
 
 {"name": "辽宁卫视","urls": ["http://39.135.140.226:6410/PLTV/88888888/224/3221225601/2/index.m3u8?fmt=ts2hls","http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8","http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8"]},
 
@@ -1019,17 +1019,17 @@
 
 {"name": "华视TV","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH121/121","rtmp://59.124.75.157/sat/tv111","rtmp://59.124.75.138/sat/tv111"]},
 {"name": "TVBS新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH32/32","rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14","rtmp://59.124.75.138/sat/tv551","rtmp://9wv7.mine.nu/sat/tv551","http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8","rtmp://59.124.75.157/sat/tv551","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072","http://66.90.88.132:8080/hls/ph00318/index.m3u8"]},
-{"name": "东森新闻台","urls": ["http://220.134.196.147:8702/http/116.50.42.18:8081/hls/63/805/ch10.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a","http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8","rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH29/29","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv152","http://66.90.88.132:8080/hls/ph00319/index.m3u8"]},
+{"name": "东森新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH29/29","http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8","rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH29/29","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv152","http://66.90.88.132:8080/hls/ph00319/index.m3u8"]},
 
-{"name": "民视新闻台","urls": ["http://220.134.196.147:8704/http/116.50.42.18:8081/hls/73/815/ch51.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002"]},
+{"name": "民视新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH24/24","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002"]},
 
 {"name": "寰宇新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH27/27"]},
 
 {"name": "壹新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH36/36"]},
 
-{"name": "三立新闻台","urls": ["http://220.134.196.147:8705/http/116.50.42.18:8081/hls/65/807/ch18.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a"]},
+{"name": "三立新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH34/34"]},
 
-{"name": "中天新闻台","urls": ["rhttp://220.134.196.147:8703/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a",",http://live.hodtv.vip:25461/live/66932145/123/3843.m3u8"]},
+{"name": "中天新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009"]},
 
 {"name": "非凡新闻台","urls": ["rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010"]},
 
@@ -1046,30 +1046,15 @@
 ]},
 
 {"group": "明星台","channels": [
-  {"name": "花语柔","urls": ["https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8 "]},
-{"name": "刘清韵","urls": ["https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/ee2ce840/index.m3u8 "]},
-{"name": "无双","urls": ["https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8"]},
-{"name": "花絮","urls": ["https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8"]},
-{"name": "松视3台","urls": ["https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv "]},
-{"name": "松视2台","urls": ["https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv "]},
-{"name": "潘朵啦高畫質玩美台","urls": ["https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv "]},
-{"name": "彩虹e台","urls": ["p2p://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db "]},
-{"name": "彩虹電影台","urls": ["p2p://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9 "]},
-{"name": "LOOK TV","urls": ["p2p://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8 "]},
-{"name": "潘朵啦玩美台","urls": ["p2p://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61 "]},
-{"name": "潘朵啦粉紅台","urls": ["p2p://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6 "]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]},
-{"name": "CCTV-2财经","urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8"]}]}], 
-     
 
-  "parses":[
+{"name": "周星驰","urls": ["http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8","http://121.51.249.48/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8"]},
+
+{"name": "李连杰","urls": ["http://121.51.249.6/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8","http://121.51.249.48/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8"]},
+
+{"name": "林正英","urls": ["http://121.51.249.6/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8","http://121.51.249.48/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8"]},
+
+{"name": "刘德华","urls": ["http://121.51.249.6/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8","http://121.51.249.48/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8"]}]}],
+"parses":[
  {
       "name": "默认解析",
       "type": 2,
@@ -1096,3 +1081,4 @@
 {"name":"蓝光解析8","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="},{"name":"蓝光解析9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},{"name":"蓝光解析10","type":1,"url":" https://json.pangujiexi.com:12345/json.php?url="},
 {"name":"蓝光解析11","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"01","type":0,"url":"https://jx.parwix.com:4433/player/?url="},{"name":"02","type":0,"url":"https://vip.2ktvb.com/player/?url="},{"name":"03","type":0,"url":"https://vip.parwix.com:4433/player/analysis.php?v="},{"name":"04","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},{"name":"05","type":0,"url":"https://9kjx.com/?url="},{"name":"06","type":0,"url":"https://okjx.cc/?url="}],"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","miaoparty","bilibili"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],"wallpaper": "https://gitee.com/ffnoll/tv/raw/master/02.jpg","spider":"https://cncncloud.com/api/v3/file/source/3065337/custom_spider.jar?sign=ZeMyExGDI-21nV03xcwArGWuIjQaUUnSDeFCXOphuxw%3D%3A0"}
+
