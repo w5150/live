@@ -149,7 +149,8 @@
     {"group":"redirect","channels":[
       {"name":"redirect","urls":[
 
-        /*选一个  /*
+        /*选一个  
+        */
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3c1MTUwL2xpdmUvbWFpbi9saXZlLnR4dA=="
         */
 
